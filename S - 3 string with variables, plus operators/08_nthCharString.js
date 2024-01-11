@@ -4,5 +4,5 @@
 
 var firstName = "Aarti";
 
-firstLetterOfFirstName = firstName [2];
-console.log (firstLetterOfFirstName);
+thirdLetterOfFirstName = firstName [2];
+console.log(thirdLetterOfFirstName);

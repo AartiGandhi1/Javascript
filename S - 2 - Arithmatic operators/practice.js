@@ -1,4 +1,7 @@
 
-var x = 5;
-z = x+ --x +x;
-console.log(x,z);
+var x = 10;
+
+y = x+ x++ +x;
+
+console.log(x,y);
+

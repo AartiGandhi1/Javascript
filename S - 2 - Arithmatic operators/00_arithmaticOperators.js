@@ -4,4 +4,8 @@ console.log(z);
 z = x + x++;
 console.log(z);
 
+z = x + x+ x++;
+console.log(z);
+
+
 

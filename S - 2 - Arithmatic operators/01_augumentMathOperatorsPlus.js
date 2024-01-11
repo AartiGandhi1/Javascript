@@ -8,9 +8,9 @@ a = a + 2;
 b = b + 2;
 c = c + 2;
 
-console.log(a);
 
 a+=2;
+b+=2;
 console.log(a);
 console.log(b);
 console.log(c);
