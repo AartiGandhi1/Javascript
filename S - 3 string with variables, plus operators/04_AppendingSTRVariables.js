@@ -14,7 +14,3 @@ var myAdjective = "worthwhile";
 var aStr = "Learning to code is ";
 aStr += anAdjective;
 console.log(aStr);
-
-
-
-console.log(myStr);

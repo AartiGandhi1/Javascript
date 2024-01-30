@@ -9,7 +9,7 @@ console.log(ourWork);
 
 //Practice --- Hello !!  my name is Aarti. I am a Software tester
 
-var myName = "Hello !! my name is Aarti. ";
-var myWork = myName + "I am a Software tester";
+var myName = "Hello !! my name is Aarti.";
+var myWork = myName+"I am a Software tester";
 
 console.log(myWork);
